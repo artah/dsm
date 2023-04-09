@@ -139,7 +139,7 @@ if (isset($_COOKIE['language']) && in_array($_COOKIE['language'], $accepted_lang
 <!-- Navigation -->
 <nav class="side">
   <div class="navigation default">
-    <ul><li class="selected"></li><li></li><li></li><li></li><li></li><li></li><li></li>
+    <ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li>
     <?php
         if (isset($_GET['mailer'])) {
     echo"<li></li>";
@@ -206,17 +206,29 @@ if (isset($_COOKIE['language']) && in_array($_COOKIE['language'], $accepted_lang
     // Zamknij modal, gdy użytkownik kliknie przycisk (X)
     closeBtn.onclick = function () {
         modal.style.display = "none";
-        window.location.href = "#rejestracja"; // przewiń stronę do sekcji "rejestracja"
+        var rejestracjaSection = document.getElementById("rejestracja");
+        if (rejestracjaSection) {
+            var rect = rejestracjaSection.getBoundingClientRect();
+            var scrollTopPosition = rect.top + window.pageYOffset;
+            window.scrollTo({top: scrollTopPosition, behavior: 'smooth'});
+        }
     };
 
     // Zamknij modal, gdy użytkownik kliknie poza nim
     window.onclick = function (event) {
         if (event.target == modal) {
             modal.style.display = "none";
-            window.location.href = "#rejestracja"; // przewiń stronę do sekcji "rejestracja"
+            var rejestracjaSection = document.getElementById("rejestracja");
+            if (rejestracjaSection) {
+                var rect = rejestracjaSection.getBoundingClientRect();
+                var scrollTopPosition = rect.top + window.pageYOffset;
+                window.scrollTo({top: scrollTopPosition, behavior: 'smooth'});
+            }
         }
     };
 </script>
+
+
 
 
 
