@@ -233,6 +233,7 @@ if (isset($_COOKIE['language']) && in_array($_COOKIE['language'], $accepted_lang
 
 
 
+
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     var languageFlags = document.getElementsByClassName("language-flag");
@@ -252,5 +253,18 @@ if (isset($_COOKIE['language']) && in_array($_COOKIE['language'], $accepted_lang
     document.cookie = "language=" + lang + ";" + expires + ";path=/";
   }
 </script>
-
+  <script>
+    $(document).ready(function() {
+      $('a[href^="#"]').on('click', function(e) {
+        e.preventDefault();
+        var target = $(this).attr("href");
+        var $targetSection = $(target);
+        if ($targetSection.length) {
+          $('html, body').animate({scrollTop: $targetSection.offset().top}, '1300');
+        } else {
+          $('html, body').animate({scrollTop: 0}, '1300');
+        }
+      });
+    });
+  </script>
 </body></html>
