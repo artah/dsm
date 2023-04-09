@@ -1,0 +1,531 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://designmodo.com/wp-content/themes/designmodo/assets/favicon/apple-touch-icon-120x120.png" />
+    <link rel="icon" type="image/png" href="https://designmodo.com/wp-content/themes/designmodo/assets/favicon/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="https://designmodo.com/wp-content/themes/designmodo/assets/favicon/favicon-16x16.png" sizes="16x16" />
+                                <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+                <link rel="preconnect" href="https://rsms.me/" crossorigin>
+                                <script type="text/javascript">
+                    WebFontConfig = {
+                        custom: {
+                            families: ['Inter'],
+                            urls: ['https://rsms.me/inter/inter.css']
+                        },
+                        google: {
+                            families: ['Material+Icons']
+                        }
+                    };
+
+                    (function() {
+                        var wf = document.createElement('script');
+                        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+                        wf.type = 'text/javascript';
+                        wf.async = 'true';
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(wf, s);
+                    })();
+                </script>
+                <style>html.wf-loading h1, html.wf-loading h2, html.wf-loading h3, html.wf-loading h4, html.wf-loading h5, html.wf-loading h6, html.wf-loading .h1, html.wf-loading .h2, html.wf-loading .h3, html.wf-loading .h4, html.wf-loading .h5, html.wf-loading .h6, html.wf-loading p, html.wf-loading span, html.wf-loading a, html.wf-loading li{opacity:0 !important}</style>
+                <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	const gtm4wp_use_sku_instead = false;
+	const gtm4wp_id_prefix = '';
+	const gtm4wp_remarketing = false;
+	const gtm4wp_eec = true;
+	const gtm4wp_classicec = false;
+	const gtm4wp_currency = 'USD';
+	const gtm4wp_product_per_impression = 10;
+	const gtm4wp_needs_shipping_address = false;
+	const gtm4wp_business_vertical = 'retail';
+	const gtm4wp_business_vertical_id = 'id';
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO Premium plugin v19.6 (Yoast SEO v19.12) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Free Static Website Generator - Slides</title>
+	<meta name="description" content="Static website generator with a drag &amp; drop editor will help you create websites and landing pages. Best static website builder on the market." />
+	<link rel="canonical" href="https://designmodo.com/slides/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Slides - Free Static Website Generator and Landing Page Builder" />
+	<meta property="og:description" content="Free static website generator with a drag and drop editor will help you create a site or landing page. The online app contains free HTML templates." />
+	<meta property="og:url" content="https://designmodo.com/slides/" />
+	<meta property="og:site_name" content="Designmodo" />
+	<meta property="article:publisher" content="https://www.facebook.com/designmodo" />
+	<meta property="article:author" content="https://www.facebook.com/valeanu" />
+	<meta property="article:published_time" content="2022-10-25T07:51:35+00:00" />
+	<meta property="article:modified_time" content="2022-10-25T09:39:47+00:00" />
+	<meta property="og:image" content="https://designmodo.com/wp-content/uploads/2020/03/slides-6.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1080" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Andrian Valeanu" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Slides - Free Static Website Generator and Landing Page Builder" />
+	<meta name="twitter:description" content="Free static website generator with a drag and drop editor will help you create a site or landing page. The online app contains free HTML templates." />
+	<meta name="twitter:image" content="https://designmodo.com/wp-content/uploads/2020/03/slides-6.jpg" />
+	<meta name="twitter:creator" content="@andrianv" />
+	<meta name="twitter:site" content="@designmodo" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Andrian Valeanu" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://designmodo.com/slides/","url":"https://designmodo.com/slides/","name":"Free Static Website Generator - Slides","isPartOf":{"@id":"https://designmodo.com/#website"},"primaryImageOfPage":{"@id":"https://designmodo.com/slides/#primaryimage"},"image":{"@id":"https://designmodo.com/slides/#primaryimage"},"thumbnailUrl":"https://designmodo.com/wp-content/uploads/2020/03/slides-6.jpg","datePublished":"2022-10-25T07:51:35+00:00","dateModified":"2022-10-25T09:39:47+00:00","description":"Static website generator with a drag & drop editor will help you create websites and landing pages. Best static website builder on the market.","breadcrumb":{"@id":"https://designmodo.com/slides/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://designmodo.com/slides/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://designmodo.com/slides/#primaryimage","url":"https://designmodo.com/wp-content/uploads/2020/03/slides-6.jpg","contentUrl":"https://designmodo.com/wp-content/uploads/2020/03/slides-6.jpg","width":1920,"height":1080,"caption":"Slides 6"},{"@type":"BreadcrumbList","@id":"https://designmodo.com/slides/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://designmodo.com/"},{"@type":"ListItem","position":2,"name":"Products","item":"https://designmodo.com/products/"},{"@type":"ListItem","position":3,"name":"Slides &#8211; Free Static Website Generator"}]},{"@type":"WebSite","@id":"https://designmodo.com/#website","url":"https://designmodo.com/","name":"Designmodo","description":"Designmodo - Web Design Blog and Shop","publisher":{"@id":"https://designmodo.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://designmodo.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://designmodo.com/#organization","name":"Designmodo","url":"https://designmodo.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://designmodo.com/#/schema/logo/image/","url":"https://designmodo.com/wp-content/uploads/2018/04/dm-logo.png","contentUrl":"https://designmodo.com/wp-content/uploads/2018/04/dm-logo.png","width":800,"height":240,"caption":"Designmodo"},"image":{"@id":"https://designmodo.com/#/schema/logo/image/"},"sameAs":["https://www.instagram.com/designmodo/","https://www.linkedin.com/company/1606608/","https://www.pinterest.com/designmodo/","https://www.youtube.com/designmodo/","https://www.facebook.com/designmodo","https://twitter.com/designmodo"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='preconnect' href='https://beacon-v2.helpscout.net' />
+<link rel='preconnect' href='https://www.gstatic.com' />
+<link rel='preconnect' href='https://widgets.getsitecontrol.com' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='metorik-css-css'  href='https://designmodo.com/wp-content/plugins/metorik-helper/assets/css/metorik.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dm_shop_slides_styles-css'  href='https://designmodo.com/wp-content/themes/designmodo/custom-pages/slides/presentation/css/slides.min.css?ver=6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dm_short_menu_css-css'  href='https://designmodo.com/wp-content/themes/designmodo/assets/css/dm-short-menu.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js?ver=3.6.0' id='jquery-js'></script>
+<script type='text/javascript' src='https://designmodo.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-woocommerce-enhanced.js?ver=1.16.2' id='gtm4wp-woocommerce-enhanced-js'></script>
+<script>
+window.wc_ga_pro = {};
+
+window.wc_ga_pro.ajax_url = 'https://designmodo.com/wp-admin/admin-ajax.php';
+
+window.wc_ga_pro.available_gateways = {"stripe":"Credit Card","paypal":"PayPal"};
+
+// interpolate json by replacing placeholders with variables
+window.wc_ga_pro.interpolate_json = function( object, variables ) {
+
+	if ( ! variables ) {
+		return object;
+	}
+
+	var j = JSON.stringify( object );
+
+	for ( var k in variables ) {
+		j = j.split( '{$' + k + '}' ).join( variables[ k ] );
+	}
+
+	return JSON.parse( j );
+};
+
+// return the title for a payment gateway
+window.wc_ga_pro.get_payment_method_title = function( payment_method ) {
+	return window.wc_ga_pro.available_gateways[ payment_method ] || payment_method;
+};
+
+// check if an email is valid
+window.wc_ga_pro.is_valid_email = function( email ) {
+  return /[^\s@]+@[^\s@]+\.[^\s@]+/.test( email );
+};
+
+</script>
+<!-- Start WooCommerce Google Analytics Pro -->
+		<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga( 'create', 'UA-19972760-2', {"cookieDomain":"auto"} );
+	ga( 'set', 'forceSSL', true );
+	ga( 'require', 'displayfeatures' );
+	ga( 'require', 'linkid' );
+	ga( 'require', 'ec' );
+
+	
+	(function() {
+
+		// trigger an event the old-fashioned way to avoid a jQuery dependency and still support IE
+		var event = document.createEvent( 'Event' );
+
+		event.initEvent( 'wc_google_analytics_pro_loaded', true, true );
+
+		document.dispatchEvent( event );
+	})();
+</script>
+		<!-- end WooCommerce Google Analytics Pro -->
+		<link rel="https://api.w.org/" href="https://designmodo.com/wp-json/" /><link rel="alternate" type="application/json" href="https://designmodo.com/wp-json/wp/v2/posts/281115" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://designmodo.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://designmodo.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://designmodo.com/?p=281115' />
+<link rel="alternate" type="application/json+oembed" href="https://designmodo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdesignmodo.com%2Fslides%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://designmodo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdesignmodo.com%2Fslides%2F&#038;format=xml" />
+<meta name="ahrefs-site-verification" content="28d1184af9a70759443898b48625e6745033bc2fa6d64e70cf6f1a5c830d28f2">
+<meta property="fb:app_id" content="156267104960234" />
+<meta name="facebook-domain-verification" content="scxgkbroqq0jrkqwqwmcpgc3dykk9v" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NKNWHQG');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to off -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["products"],"pageAttributes":["templates"],"pagePostAuthor":"Andrian Valeanu","cartContent":{"totals":{"applied_coupons":[],"discount_total":0,"subtotal":0,"total":0},"items":[]}};
+	dataLayer.push( dataLayer_content );
+</script>
+<script>
+	console.warn && console.warn("[GTM4WP] Google Tag Manager container code placement set to OFF !!!");
+	console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->		<!-- Start Mixpanel -->
+		<script type="text/javascript">
+			(function(f, b){if (!b.__SV){var e, g, i, h; window.mixpanel = b; b._i = []; b.init = function(e, f, c){function g(a, d){var b = d.split("."); 2 == b.length && (a = a[b[0]], d = b[1]); a[d] = function(){a.push([d].concat(Array.prototype.slice.call(arguments, 0)))}}var a = b; "undefined" !== typeof c?a = b[c] = []:c = "mixpanel"; a.people = a.people || []; a.toString = function(a){var d = "mixpanel"; "mixpanel" !== c && (d += "." + c); a || (d += " (stub)"); return d}; a.people.toString = function(){return a.toString(1) + ".people (stub)"}; i = "disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");
+			for (h = 0; h < i.length; h++)g(a, i[h]); var j = "set set_once union unset remove delete".split(" "); a.get_group = function(){function b(c){d[c] = function(){call2_args = arguments; call2 = [c].concat(Array.prototype.slice.call(call2_args, 0)); a.push([e, call2])}}for (var d = {}, e = ["get_group"].concat(Array.prototype.slice.call(arguments, 0)), c = 0; c < j.length; c++)b(j[c]); return d}; b._i.push([e, f, c])}; b.__SV = 1.2; e = f.createElement("script"); e.type = "text/javascript"; e.async = !0; e.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL?
+					MIXPANEL_CUSTOM_LIB_URL:"file:" === f.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; g = f.getElementsByTagName("script")[0]; g.parentNode.insertBefore(e, g)}})(document, window.mixpanel || []);
+		mixpanel.init("75c2081f79f99e822befff287f3282d7", {"debug":false});
+mixpanel.track("App Page Viewed", {"App Page":"Slides","Location":"login"})		</script>
+		<!-- End Mixpanel -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>/* add or modify your styles to fix unstyled look before styles fully loaded at the bottom
+html:not(.page-loaded) .slides {font-family: "Inter",-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 16px;margin: 0; padding: 0;}
+html:not(.page-loaded) h1 {font-size: 45px;} 
+html:not(.page-loaded) svg, html:not(.page-loaded) nav, html:not(.page-loaded) .popup, html:not(.page-loaded) .dropdown, html:not(.page-loaded) .material-icons,html:not(.page-loaded) .button.round{display:none;}
+html:not(.page-loaded) body { background: #fff;}
+html:not(.page-loaded) section{height: 100vh;}
+html:not(.page-loaded) section:not(.autoHeight){height: 100vh;}
+html:not(.page-loaded) * {transition:0s!imporatnt;}
+.container { display: table; table-layout: fixed; position: relative; width: 100%; height: 100vh;}
+.container .wrap { display: table-cell; vertical-align: middle; overflow: hidden; }
+.fix-1-12{max-width:80px!important}.fix-2-12{max-width:180px!important}.fix-3-12{max-width:280px!important}.fix-4-12{max-width:380px!important}.fix-5-12{max-width:480px!important}.fix-6-12{max-width:580px!important}.fix-7-12{max-width:680px!important}.fix-8-12{max-width:780px!important}.fix-9-12{max-width:880px!important}.fix-10-12{max-width:980px!important}.fix-11-12{max-width:1080px!important}.fix-12-12{max-width:1180px!important}[class*=fix-] { width: 100%!important; margin-left: auto!important; margin-right: auto!important;float:none;}.flex { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap;}.flex>.col-1-12{width:8.3333333333%}.flex>.col-2-12{width:16.6666666667%}.flex>.col-3-12{width:25%}.flex>.col-4-12{width:33.3333333333%}.flex>.col-5-12{width:41.6666666667%}.flex>.col-6-12{width:50%}.flex>.col-7-12{width:58.3333333333%}.flex>.col-8-12{width:66.6666666667%}.flex>.col-9-12{width:75%}.flex>.col-10-12{width:83.3333333333%}.flex>.col-11-12{width:91.6666666667%}.flex>.col-12-12{width:100%}.flex>.col-1-10{width:10%}.flex>.col-2-10{width:20%}.flex>.col-3-10{width:30%}.flex>.col-4-10{width:40%}.flex>.col-5-10{width:50%}.flex>.col-6-10{width:60%}.flex>.col-7-10{width:70%}.flex>.col-8-10{width:80%}.flex>.col-9-10{width:90%}.flex>.col-10-10{width:100%}li,ol,ul{list-style:none;}.left{text-align:left;}
+html:not(.page-loaded) .button {
+  padding: 14px 22px;
+  background: #2164E1;
+  font-size: 15px;
+  line-height: 16px;
+  border-radius: 6px;
+  color: #fff;
+  margin-top: 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+html:not(.page-loaded) p {
+  font-size: 21px;
+  line-height: 150%;
+  letter-spacing: -0.011em;
+}.wide {width: 100%;}
+html:not(.page-loaded) .button.green {background: #30B467;margin-left:12px;}
+html:not(.page-loaded) img {background: #ccc;} */
+</style>
+
+
+                    <noscript><style type="text/css">[class*="ae-"]{opacity:1!important;visibility:visible!important;}.js-enabled{display:none!important;}</style></noscript>
+  </head>
+  <body class="login slides whiteSlide noPreload scroll animated smooth">
+                <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKNWHQG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" style="display:none">  
+  <symbol id="close" viewBox="0 0 30 30"><path d="M15 0c-8.3 0-15 6.7-15 15s6.7 15 15 15 15-6.7 15-15-6.7-15-15-15zm5.7 19.3c.4.4.4 1 0 1.4-.2.2-.4.3-.7.3s-.5-.1-.7-.3l-4.3-4.3-4.3 4.3c-.2.2-.4.3-.7.3s-.5-.1-.7-.3c-.4-.4-.4-1 0-1.4l4.3-4.3-4.3-4.3c-.4-.4-.4-1 0-1.4s1-.4 1.4 0l4.3 4.3 4.3-4.3c.4-.4 1-.4 1.4 0s.4 1 0 1.4l-4.3 4.3 4.3 4.3z"/></symbol>
+  <symbol id="menu" viewBox="0 0 18 18"><path d="M16 5h-14c-.6 0-1-.4-1-1 0-.5.4-1 1-1h14c.5 0 1 .4 1 1s-.4 1-1 1zm-14 5h14c.5 0 1-.4 1-1 0-.5-.4-1-1-1h-14c-.6 0-1 .4-1 1s.4 1 1 1zm14 3h-14c-.5 0-1 .4-1 1 0 .5.4 1 1 1h14c.5 0 1-.4 1-1s-.4-1-1-1z"/></symbol>
+  <symbol id="facebook" viewBox="0 0 24 24"><path d="M24 1.3v21.3c0 .7-.6 1.3-1.3 1.3h-6.1v-9.3h3.1l.5-3.6h-3.6v-2.2c0-1.1.3-1.8 1.8-1.8h1.9v-3.2c-.3 0-1.5-.1-2.8-.1-2.8 0-4.7 1.7-4.7 4.8v2.7h-3.1v3.6h3.1v9.2h-11.5c-.7 0-1.3-.6-1.3-1.3v-21.4c0-.7.6-1.3 1.3-1.3h21.3c.8 0 1.4.6 1.4 1.3z"/></symbol>
+  <symbol id="twitter" viewBox="0 1 24 23"><path d="M21.5 7.6v.6c0 6.6-5 14.1-14 14.1-2.8 0-5.4-.8-7.6-2.2l1.2.1c2.3 0 4.4-.8 6.1-2.1-2.2 0-4-1.5-4.6-3.4.3.1.6.1.9.1.5 0 .9-.1 1.3-.2-2.1-.6-3.8-2.6-3.8-5 .7.4 1.4.6 2.2.6-1.3-.9-2.2-2.4-2.2-4.1 0-.9.2-1.8.7-2.5 2.4 3 6.1 5 10.2 5.2-.1-.4-.1-.7-.1-1.1 0-2.7 2.2-5 4.9-5 1.4 0 2.7.6 3.6 1.6 1-.3 2.1-.7 3-1.3-.4 1.2-1.1 2.1-2.2 2.7 1-.1 1.9-.4 2.8-.8-.6 1.1-1.4 2-2.4 2.7z"/></symbol>
+  <symbol id="youtube" viewBox="0 0 24 24"><path d="M23.6 6.3c-.3-1.2-1.4-2.2-2.6-2.3-3-.3-6-.3-9-.3s-6 0-9 .3c-1.2.1-2.3 1.1-2.6 2.3-.4 1.8-.4 3.8-.4 5.7 0 1.9 0 3.9.4 5.7.3 1.2 1.4 2.2 2.6 2.3 3 .3 6 .3 9 .3s6 0 9-.3c1.3-.1 2.3-1.1 2.6-2.4.4-1.7.4-3.7.4-5.6 0-1.9 0-3.9-.4-5.7zm-14.1 9v-6.6l6.5 3.3-6.5 3.3z"/></symbol>
+</svg>
+
+<!-- Panel Top #01 -->
+<nav class="panel top absolute">
+  <div class="fix-12-12">
+    <div class="sections desktop">
+      <div class="left">
+        <a href="https://designmodo.com/slides/" title="Slides 6" class="inlineBlock middle shift-up-3 logo">
+          <svg width="109" height="28" viewBox="0 0 148 39" fill="none" xmlns="http://www.w3.org/2000/svg" id="slides-logo">
+<path d="M39.2543 28.8186C39.4886 31.0453 41.4803 34.8627 47.2599 34.8627C52.2976 34.8627 54.7188 31.602 54.7188 28.4209C54.7188 25.5579 52.8053 23.2119 49.0172 22.4166L46.2836 21.8201C45.2292 21.6213 44.5263 21.0248 44.5263 20.0705C44.5263 18.9571 45.6198 18.1221 46.9866 18.1221C49.1735 18.1221 49.9935 19.5933 50.1497 20.7465L54.4845 19.7524C54.2502 17.6449 52.4147 14.1059 46.9475 14.1059C42.808 14.1059 39.762 17.0087 39.762 20.5079C39.762 23.2516 41.4412 25.5182 45.1511 26.3532L47.6895 26.9497C49.1735 27.2678 49.7592 27.9835 49.7592 28.8583C49.7592 29.8922 48.9391 30.8068 47.2209 30.8068C44.9559 30.8068 43.8234 29.3753 43.7062 27.8245L39.2543 28.8186Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M62.1362 34.2662V5.47717H56.9423V34.2662H62.1362Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M70.938 34.2662V14.7024H65.7442V34.2662H70.938ZM65.1193 8.3004C65.1193 10.05 66.5643 11.5213 68.3216 11.5213C70.118 11.5213 71.5238 10.05 71.5238 8.3004C71.5238 6.47126 70.118 5 68.3216 5C66.5643 5 65.1193 6.47126 65.1193 8.3004Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M92.8613 5.47717H87.7455V16.6508C87.1988 15.617 85.6367 14.2252 82.3173 14.2252C76.8891 14.2252 73.1011 18.7185 73.1011 24.4445C73.1011 30.3694 77.0063 34.7434 82.4735 34.7434C85.0509 34.7434 87.0035 33.5505 87.8627 31.9997C87.8627 32.9142 87.9798 33.8686 88.0579 34.2662H93.0175C92.9394 33.4709 92.8613 32.0394 92.8613 30.7272V5.47717ZM78.3341 24.4445C78.3341 20.9453 80.4428 18.9571 83.0984 18.9571C85.7539 18.9571 87.8236 20.9055 87.8236 24.4048C87.8236 27.9438 85.7539 30.0115 83.0984 30.0115C80.3647 30.0115 78.3341 27.9438 78.3341 24.4445Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M100.331 22.2575C100.448 20.4681 101.932 18.4004 104.627 18.4004C107.595 18.4004 108.844 20.3091 108.922 22.2575H100.331ZM109.43 27.3473C108.805 29.0969 107.478 30.3296 105.056 30.3296C102.479 30.3296 100.331 28.4607 100.214 25.876H113.96C113.96 25.7965 114.038 25.0012 114.038 24.2457C114.038 17.963 110.485 14.1059 104.549 14.1059C99.6282 14.1059 95.0982 18.1618 95.0982 24.4048C95.0982 31.0056 99.7453 34.8627 105.017 34.8627C109.743 34.8627 112.789 32.0394 113.765 28.6595L109.43 27.3473Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M114.536 28.8186C114.77 31.0453 116.761 34.8627 122.541 34.8627C127.579 34.8627 130 31.602 130 28.4209C130 25.5579 128.086 23.2119 124.298 22.4166L121.565 21.8201C120.51 21.6213 119.808 21.0248 119.808 20.0705C119.808 18.9571 120.901 18.1221 122.268 18.1221C124.455 18.1221 125.275 19.5933 125.431 20.7465L129.766 19.7524C129.531 17.6449 127.696 14.1059 122.229 14.1059C118.089 14.1059 115.043 17.0087 115.043 20.5079C115.043 23.2516 116.722 25.5182 120.432 26.3532L122.971 26.9497C124.455 27.2678 125.04 27.9835 125.04 28.8583C125.04 29.8922 124.22 30.8068 122.502 30.8068C120.237 30.8068 119.105 29.3753 118.987 27.8245L114.536 28.8186Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M10.5377 24.107C12.0393 24.107 13.2565 22.8675 13.2565 21.3386C13.2565 19.8097 12.0393 18.5703 10.5377 18.5703C9.03623 18.5703 7.81901 19.8097 7.81901 21.3386C7.81901 22.8675 9.03623 24.107 10.5377 24.107Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M15.8066 6.8103C7.08137 6.8103 0 14.0208 0 22.9052C0 31.7896 7.08137 39.0001 15.8066 39.0001C24.5319 39.0001 31.6132 31.7896 31.6132 22.9052C31.6132 14.0208 24.5319 6.8103 15.8066 6.8103ZM4.95274 21.3601C4.95274 18.227 7.46072 15.6732 10.5377 15.6732C13.6148 15.6732 16.1228 18.227 16.1228 21.3601C16.1228 24.4932 13.6148 27.047 10.5377 27.047C7.46072 27.047 4.95274 24.4932 4.95274 21.3601ZM16.5232 32.8411C14.7739 32.8411 13.0879 32.3475 11.6126 31.4033L13.0668 29.0213C14.0995 29.6865 15.3008 30.0299 16.5232 30.0299C17.7456 30.0299 18.9469 29.6865 19.9585 29.0213L21.4127 31.4033C19.9585 32.3475 18.2514 32.8411 16.5232 32.8411ZM18.8204 22.755V19.9437H27.2928V22.755H18.8204Z" fill="#202020" class="dark-mode-fill"/>
+<path opacity="0.9" d="M148 9C148 13.9706 143.971 18 139 18C134.029 18 130 13.9706 130 9C130 4.02944 134.029 0 139 0C143.971 0 148 4.02944 148 9Z" fill="#F25022"/>
+<path d="M139.074 12.9998C138.698 12.9948 138.328 12.9314 137.963 12.8097C137.601 12.6881 137.272 12.4853 136.975 12.2014C136.679 11.9175 136.442 11.536 136.263 11.0569C136.088 10.5778 136 9.97962 136 9.26227C136 8.58294 136.073 7.97966 136.218 7.45242C136.366 6.92518 136.579 6.48033 136.856 6.11785C137.133 5.75284 137.468 5.47528 137.86 5.28517C138.252 5.09506 138.693 5 139.181 5C139.683 5 140.129 5.09125 140.519 5.27376C140.908 5.45626 141.224 5.70848 141.465 6.0304C141.556 6.15087 141.635 6.27755 141.702 6.41045C141.879 6.76577 141.57 7.12923 141.173 7.12923C140.88 7.12923 140.637 6.9206 140.477 6.67476C140.394 6.5474 140.291 6.434 140.169 6.33457C139.916 6.12925 139.587 6.0266 139.181 6.0266C138.564 6.0266 138.082 6.27501 137.737 6.77183C137.399 7.26108 137.226 7.93838 137.218 8.80372C137.218 8.82588 137.236 8.84403 137.258 8.84403C137.272 8.84403 137.284 8.83725 137.292 8.82608C137.435 8.61331 137.609 8.43171 137.815 8.2813C138.029 8.12414 138.267 8.00374 138.531 7.92009C138.797 7.83391 139.077 7.79082 139.37 7.79082C139.859 7.79082 140.3 7.90108 140.695 8.12161C141.093 8.3396 141.41 8.64124 141.646 9.02653C141.882 9.41182 142 9.85288 142 10.3497C142 10.8465 141.878 11.2965 141.634 11.6995C141.392 12.1025 141.052 12.4219 140.613 12.6576C140.174 12.8908 139.661 13.0049 139.074 12.9998ZM139.07 12.0113C139.394 12.0113 139.683 11.9378 139.938 11.7907C140.193 11.6437 140.395 11.446 140.543 11.1976C140.691 10.9492 140.765 10.6716 140.765 10.3649C140.765 10.0658 140.693 9.79331 140.547 9.54744C140.405 9.30156 140.207 9.10638 139.955 8.9619C139.705 8.81741 139.42 8.74517 139.099 8.74517C138.855 8.74517 138.628 8.78826 138.42 8.87445C138.214 8.96063 138.033 9.07977 137.877 9.23185C137.72 9.38394 137.597 9.55884 137.506 9.75656C137.418 9.95174 137.374 10.1583 137.374 10.3763C137.374 10.6678 137.447 10.9378 137.593 11.1862C137.741 11.4346 137.942 11.6348 138.198 11.7869C138.455 11.9365 138.746 12.0113 139.07 12.0113Z" fill="white"/>
+</svg>
+        </a>
+        <ul class="menu middle" id="left-menu">
+          <li><a href="https://designmodo.com/slides/#pricing">Pricing</a></li>
+          <li><a href="https://designmodo.com/slides/changelog/">Changelog</a></li>
+          <li><a href="https://designmodo.com/slides/faq/">Help</a></li>
+          <li><a onclick="Beacon('open')">Chat</a></li>
+        </ul>
+      </div>
+      <div class="right">
+      <a href="https://designmodo.com/slides/login/" class="margin-right-2 font-size-16 weight-5">Login</a>
+         <a class="crop button blue rounded small flat weight-5 font-size-15" href="https://designmodo.com/slides/sign-up/">Demo</a> 
+      </div>
+    </div>
+    <div class="sections compact hidden">
+      <div class="left">
+		<a href="https://designmodo.com/slides/" title="Slides 6">
+			<svg width="109" height="28" viewBox="0 0 148 39" fill="none" xmlns="http://www.w3.org/2000/svg" id="slides-logo">
+<path d="M39.2543 28.8186C39.4886 31.0453 41.4803 34.8627 47.2599 34.8627C52.2976 34.8627 54.7188 31.602 54.7188 28.4209C54.7188 25.5579 52.8053 23.2119 49.0172 22.4166L46.2836 21.8201C45.2292 21.6213 44.5263 21.0248 44.5263 20.0705C44.5263 18.9571 45.6198 18.1221 46.9866 18.1221C49.1735 18.1221 49.9935 19.5933 50.1497 20.7465L54.4845 19.7524C54.2502 17.6449 52.4147 14.1059 46.9475 14.1059C42.808 14.1059 39.762 17.0087 39.762 20.5079C39.762 23.2516 41.4412 25.5182 45.1511 26.3532L47.6895 26.9497C49.1735 27.2678 49.7592 27.9835 49.7592 28.8583C49.7592 29.8922 48.9391 30.8068 47.2209 30.8068C44.9559 30.8068 43.8234 29.3753 43.7062 27.8245L39.2543 28.8186Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M62.1362 34.2662V5.47717H56.9423V34.2662H62.1362Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M70.938 34.2662V14.7024H65.7442V34.2662H70.938ZM65.1193 8.3004C65.1193 10.05 66.5643 11.5213 68.3216 11.5213C70.118 11.5213 71.5238 10.05 71.5238 8.3004C71.5238 6.47126 70.118 5 68.3216 5C66.5643 5 65.1193 6.47126 65.1193 8.3004Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M92.8613 5.47717H87.7455V16.6508C87.1988 15.617 85.6367 14.2252 82.3173 14.2252C76.8891 14.2252 73.1011 18.7185 73.1011 24.4445C73.1011 30.3694 77.0063 34.7434 82.4735 34.7434C85.0509 34.7434 87.0035 33.5505 87.8627 31.9997C87.8627 32.9142 87.9798 33.8686 88.0579 34.2662H93.0175C92.9394 33.4709 92.8613 32.0394 92.8613 30.7272V5.47717ZM78.3341 24.4445C78.3341 20.9453 80.4428 18.9571 83.0984 18.9571C85.7539 18.9571 87.8236 20.9055 87.8236 24.4048C87.8236 27.9438 85.7539 30.0115 83.0984 30.0115C80.3647 30.0115 78.3341 27.9438 78.3341 24.4445Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M100.331 22.2575C100.448 20.4681 101.932 18.4004 104.627 18.4004C107.595 18.4004 108.844 20.3091 108.922 22.2575H100.331ZM109.43 27.3473C108.805 29.0969 107.478 30.3296 105.056 30.3296C102.479 30.3296 100.331 28.4607 100.214 25.876H113.96C113.96 25.7965 114.038 25.0012 114.038 24.2457C114.038 17.963 110.485 14.1059 104.549 14.1059C99.6282 14.1059 95.0982 18.1618 95.0982 24.4048C95.0982 31.0056 99.7453 34.8627 105.017 34.8627C109.743 34.8627 112.789 32.0394 113.765 28.6595L109.43 27.3473Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M114.536 28.8186C114.77 31.0453 116.761 34.8627 122.541 34.8627C127.579 34.8627 130 31.602 130 28.4209C130 25.5579 128.086 23.2119 124.298 22.4166L121.565 21.8201C120.51 21.6213 119.808 21.0248 119.808 20.0705C119.808 18.9571 120.901 18.1221 122.268 18.1221C124.455 18.1221 125.275 19.5933 125.431 20.7465L129.766 19.7524C129.531 17.6449 127.696 14.1059 122.229 14.1059C118.089 14.1059 115.043 17.0087 115.043 20.5079C115.043 23.2516 116.722 25.5182 120.432 26.3532L122.971 26.9497C124.455 27.2678 125.04 27.9835 125.04 28.8583C125.04 29.8922 124.22 30.8068 122.502 30.8068C120.237 30.8068 119.105 29.3753 118.987 27.8245L114.536 28.8186Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M10.5377 24.107C12.0393 24.107 13.2565 22.8675 13.2565 21.3386C13.2565 19.8097 12.0393 18.5703 10.5377 18.5703C9.03623 18.5703 7.81901 19.8097 7.81901 21.3386C7.81901 22.8675 9.03623 24.107 10.5377 24.107Z" fill="#202020" class="dark-mode-fill"/>
+<path d="M15.8066 6.8103C7.08137 6.8103 0 14.0208 0 22.9052C0 31.7896 7.08137 39.0001 15.8066 39.0001C24.5319 39.0001 31.6132 31.7896 31.6132 22.9052C31.6132 14.0208 24.5319 6.8103 15.8066 6.8103ZM4.95274 21.3601C4.95274 18.227 7.46072 15.6732 10.5377 15.6732C13.6148 15.6732 16.1228 18.227 16.1228 21.3601C16.1228 24.4932 13.6148 27.047 10.5377 27.047C7.46072 27.047 4.95274 24.4932 4.95274 21.3601ZM16.5232 32.8411C14.7739 32.8411 13.0879 32.3475 11.6126 31.4033L13.0668 29.0213C14.0995 29.6865 15.3008 30.0299 16.5232 30.0299C17.7456 30.0299 18.9469 29.6865 19.9585 29.0213L21.4127 31.4033C19.9585 32.3475 18.2514 32.8411 16.5232 32.8411ZM18.8204 22.755V19.9437H27.2928V22.755H18.8204Z" fill="#202020" class="dark-mode-fill"/>
+<path opacity="0.9" d="M148 9C148 13.9706 143.971 18 139 18C134.029 18 130 13.9706 130 9C130 4.02944 134.029 0 139 0C143.971 0 148 4.02944 148 9Z" fill="#F25022"/>
+<path d="M139.074 12.9998C138.698 12.9948 138.328 12.9314 137.963 12.8097C137.601 12.6881 137.272 12.4853 136.975 12.2014C136.679 11.9175 136.442 11.536 136.263 11.0569C136.088 10.5778 136 9.97962 136 9.26227C136 8.58294 136.073 7.97966 136.218 7.45242C136.366 6.92518 136.579 6.48033 136.856 6.11785C137.133 5.75284 137.468 5.47528 137.86 5.28517C138.252 5.09506 138.693 5 139.181 5C139.683 5 140.129 5.09125 140.519 5.27376C140.908 5.45626 141.224 5.70848 141.465 6.0304C141.556 6.15087 141.635 6.27755 141.702 6.41045C141.879 6.76577 141.57 7.12923 141.173 7.12923C140.88 7.12923 140.637 6.9206 140.477 6.67476C140.394 6.5474 140.291 6.434 140.169 6.33457C139.916 6.12925 139.587 6.0266 139.181 6.0266C138.564 6.0266 138.082 6.27501 137.737 6.77183C137.399 7.26108 137.226 7.93838 137.218 8.80372C137.218 8.82588 137.236 8.84403 137.258 8.84403C137.272 8.84403 137.284 8.83725 137.292 8.82608C137.435 8.61331 137.609 8.43171 137.815 8.2813C138.029 8.12414 138.267 8.00374 138.531 7.92009C138.797 7.83391 139.077 7.79082 139.37 7.79082C139.859 7.79082 140.3 7.90108 140.695 8.12161C141.093 8.3396 141.41 8.64124 141.646 9.02653C141.882 9.41182 142 9.85288 142 10.3497C142 10.8465 141.878 11.2965 141.634 11.6995C141.392 12.1025 141.052 12.4219 140.613 12.6576C140.174 12.8908 139.661 13.0049 139.074 12.9998ZM139.07 12.0113C139.394 12.0113 139.683 11.9378 139.938 11.7907C140.193 11.6437 140.395 11.446 140.543 11.1976C140.691 10.9492 140.765 10.6716 140.765 10.3649C140.765 10.0658 140.693 9.79331 140.547 9.54744C140.405 9.30156 140.207 9.10638 139.955 8.9619C139.705 8.81741 139.42 8.74517 139.099 8.74517C138.855 8.74517 138.628 8.78826 138.42 8.87445C138.214 8.96063 138.033 9.07977 137.877 9.23185C137.72 9.38394 137.597 9.55884 137.506 9.75656C137.418 9.95174 137.374 10.1583 137.374 10.3763C137.374 10.6678 137.447 10.9378 137.593 11.1862C137.741 11.4346 137.942 11.6348 138.198 11.7869C138.455 11.9365 138.746 12.0113 139.07 12.0113Z" fill="white"/>
+</svg>
+		</a>
+	  </div>
+      <div class="right"><span class="button actionButton sidebarTrigger" data-sidebar-id="menu"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu"></use></svg></span></div>
+    </div>
+  </div>
+</nav>
+
+<!-- Sidebar -->
+<nav class="sidebar" data-sidebar-id="menu">
+  <div class="close"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close"></use></svg></div>
+  <div class="content">
+    <a href="https://designmodo.com/slides/" class="logo"><img src="https://designmodo.com/wp-content/themes/designmodo/custom-pages/slides/presentation/svg/logo-white.svg" alt="" title="Slides 6" /></a>
+    <ul class="mainMenu margin-top-3">
+		<li><a href="https://designmodo.com/slides/sign-up/">Try the Demo</a></li>
+		<li><a href="https://designmodo.com/slides/#pricing">Pricing</a></li>
+		<li><a onclick="Beacon('open')">Help</a></li>
+					<li><a href="https://designmodo.com/my-account/sign-in/">Login</a></li>
+		    <li><a href="https://designmodo.com/examples-slides-framework/" target="_blank">Examples</a></li>
+		<li><a href="https://designmodo.com/slides/changelog">Changelog</a></li>
+		<li><a href="https://designmodo.com/slides/license">License</a></li>
+		<li><a href="https://designmodo.com/terms-and-conditions/" target="_blank">Terms</a> & <a href="https://designmodo.com/privacy-statement/" target="_blank">Privacy</a></li>
+    </ul>
+<!--     <ul class="subMenu small opacity-8">
+    </ul> -->
+    <ul class="social">
+		<li><a href="https://twitter.com/designmodo" target="_blank"><svg style="fill:white"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#twitter"></use></svg></a></li>
+		<li><a href="https://www.facebook.com/designmodo" target="_blank"><svg style="fill:white"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#facebook"></use></svg></a></li>
+		<li><a href="https://www.youtube.com/user/designmodo" target="_blank"><svg style="fill:white"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#youtube"></use></svg></a></li>
+	</ul>
+  </div>
+</nav>
+
+<section class="slide whiteSlide autoHeight transparent sign-up" style="min-height:calc(100vh - 181px)">
+	<div class="content">
+		<div class="container">
+			<div class="wrap padding-top-16">
+
+				<div class="align-center">
+
+					
+					<ul class="slider" data-slider-id="register-login">
+						<li class="selected">
+							<h1 class="small margin-bottom-2">Login</h1>
+							<p class="small opacity-8">Login with your Designmodo account.</p>
+
+							<div class="fix-4-12 margin-top-3 align-left">
+								<div class="padding-4 padding-phablet-3 equalElement box-shadow background-module-white rounded-24">
+									<div class="error_el" style="display:none;"></div>
+									<form class="slides-form" action="" id="login-form" autocomplete="on" class="wide">
+										<div class="label cropTop"><label class="cropTop" for="email43" id="emailLabel">Email Address</label></div>
+										<input class="wide rounded center" id="email43" type="email" name="username" placeholder="Email address" required/>
+										<div class="label"><label id="passwordLabel" for="password43">Password</label></div>
+										<input class="wide rounded center" id="password43" type="password" name="password" placeholder="Password" required/>
+
+										<!-- checkbox layout -->
+										<div class="checkbox">
+											<label>
+												<input type="checkbox" name="rememberme" value="forever" checked/>
+												<span class="element shift-down-1 margin-left-0"></span>
+												<span class="font-size-15">Remember me</a>
+												</span>
+											</label>
+										</div>
+										<button class="button rounded cropBottom wide blue margin-top-2" type="submit" name="submit">Login ⟶</button>
+										<p class="small align-center crop"><a class="inlineBlock margin-top-2 normal text-gray p smaller custom-underline" href="https://designmodo.com/my-account/lost-password/">Forgot your password?</a></p>
+									</form>
+								</div>
+								<div class="donthavealicense align-center"><p class="small margin-top-3 opaque"><span class="opacity-6 block normal">Don't have a Slides License?</span><a href="https://designmodo.com/slides/#pricing" class="custom-underline addToCartButton">Purchase One</a>&nbsp; or &nbsp;<a href="/slides/sign-up/" onclick="return false;" data-slider-action="1" data-slider-id="register-login" class="custom-underline">Sign Up</a></p></div>
+							</div>
+						</li>
+						<li>
+
+							<h1 class="small margin-bottom-2">Try the Demo</h1>
+							<p class="small opacity-8">Create a Designmodo account.</p>
+
+							<div class="fix-5-12 margin-top-3">
+								<div class="padding-4 padding-phablet-3 equalElement box-shadow background-module-white rounded-24">
+									<div class="status_el error_el demo_sign_up" style="display:none;"></div>
+									<form class="slides-form demo-request wide align-left" method="post" action="" id="demo-registration" autocomplete="on">
+
+										<ul class="flex noSpaces margin-bottom-1">
+											<li class="col-6-12 form-55-input-1">
+												<div class="label"><label class="opacity-8 required" for="firstname">First Name</label></div>
+												<input class="rounded cropSides" id="firstname" type="text" name="firstname" placeholder="First Name"/>
+											</li>
+											<li class="col-6-12 form-55-input-2">
+												<div class="label"><label class="opacity-8 required" for="lastname">Last Name</label></div>
+												<input class="rounded cropSides shift-left-1" id="lastname" type="text" name="lastname" placeholder="Last Name"/>
+											</li>
+										</ul>
+
+										<div class="label cropTop"><label class="opacity-8 cropTop required" for="email55">Email address</label></div>
+										<input class="rounded wide" type="email" id="email41" value="" name="email" >
+
+										<div class="label"><label for="password" class="opacity-8 left required">Password<i class="material-icons showHidePassword disableSelect" data-input-id="password">&#xE8F4;</i></label></div>
+										<input class="rounded wide left" id="password" type="password" name="password" placeholder="Password"/>
+
+										<!-- checkbox layout -->
+										<div class="checkbox">
+											<label>
+												<input type="checkbox" name="acceptance" value="Y"/>
+												<span class="element shift-down-1 margin-left-0"></span>
+												<span class="font-size-15">I accept the <a href="https://designmodo.com/privacy-statement/" class="custom-underline" target="_blank">Privacy Policy</a>.
+												</span>
+											</label>
+										</div>
+
+										<button class="button cropBottom rounded wide green margin-top-2" type="submit" name="submit">Continue ⟶</button>
+									</form>
+								</div>
+							</div>
+							<div class="donthavealicense"><p class="small margin-top-3 opaque"><span class="opacity-8">Have a <a href="/">Designmodo</a> Account?</span>&nbsp;<a class="custom-underline" data-slider-action="0" data-slider-id="register-login">Login</a>.</p></div>
+						</li>
+					</ul>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+<footer class="slide autoHeight whiteSlide transparent">
+  <div class="content relative">
+    <div class="container">
+      <div class="wrap padding-top-8 padding-bottom-8">
+        <div class="flex reverse fix-12-12 verticalCenter justifyBetween holder">
+          <div class="flex crop weight-5 footer_left">
+            Made with Slides by <img width="23" height="23" src="https://designmodo.com/wp-content/themes/designmodo/custom-pages/slides/presentation/svg/designmodo.svg" alt="" class="dm_logo js-night-mode-img switch-nightmode" /> <a href="https://designmodo.com/">Designmodo</a>
+          </div>
+          <div class="footer_right weight-5 align-right">
+            <a href="https://designmodo.com/slides/changelog/">Changelog</a>
+            <a href="https://designmodo.com/examples-slides-framework/" target="_blank">Examples</a>
+            <a href="https://designmodo.com/slides/license/">License</a>
+            <a href="https://designmodo.com/slides/faq/">Help</a>
+            <a href="https://slides.gitbook.io/" target="_blank">Manual</a>
+            <a onclick="Beacon('open')">Chat</a>
+                          <a href="https://designmodo.com/slides/login/">Login</a>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<!-- START: Designmodo Short Menu -->
+<div class="dm-short-menu ">
+    <svg class="dm-short-menu-logo" width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="30" cy="30" r="28" fill="white"/><path d="M20 32.24C22.8498 32.24 25.16 29.9298 25.16 27.08C25.16 24.2302 22.8498 21.92 20 21.92C17.1502 21.92 14.84 24.2302 14.84 27.08C14.84 29.9298 17.1502 32.24 20 32.24Z" fill="#219653"/><path d="M30 0C13.44 0 0 13.44 0 30C0 46.56 13.44 60 30 60C46.56 60 60 46.56 60 30C60 13.44 46.56 0 30 0ZM9.4 27.12C9.4 21.28 14.16 16.52 20 16.52C25.84 16.52 30.6 21.28 30.6 27.12C30.6 32.96 25.84 37.72 20 37.72C14.16 37.72 9.4 32.96 9.4 27.12ZM31.36 48.52C28.04 48.52 24.84 47.6 22.04 45.84L24.8 41.4C26.76 42.64 29.04 43.28 31.36 43.28C33.68 43.28 35.96 42.64 37.88 41.4L40.64 45.84C37.88 47.6 34.64 48.52 31.36 48.52ZM35.72 29.72V24.48H51.8V29.72H35.72Z" fill="#219653"/></svg>
+    <div class="dm-short-menu-window">
+        <span class="nobr">Hey there <span class="emoji" style="padding-right: 3px">👋</span> Friends</span> from <a href="https://designmodo.com" class="link-hover">designmodo</a> are here to help!
+        <div class="link-box">
+            <a href="https://designmodo.com/products/" class="dm-short-menu-link">More Products</a>
+            <a onclick="Beacon('open')" class="dm-short-menu-link">Start a Chat...</a>
+                        <a href="https://designmodo.com/my-account/" class="dm-short-menu-link">My Account</a>
+        </div>
+    </div>
+    <span class="dm-short-menu-badge"></span>
+</div>
+<!-- END: Designmodo Short Menu-->  
+        <!-- 
+            Lockers: user tracker for visibility filters
+            OnePress, bizpanda.com
+        -->
+        <script>
+            window.__bp_session_timeout = '900';
+            window.__bp_session_freezing = 0;
+            window.bizpanda||(window.bizpanda={}),window.bizpanda.bp_can_store_localy=function(){return!1},window.bizpanda.bp_ut_get_cookie=function(e){for(var n=e+"=",i=document.cookie.split(";"),o=0;o<i.length;o++){for(var t=i[o];" "==t.charAt(0);)t=t.substring(1);if(0==t.indexOf(n))return decodeURIComponent(t.substring(n.length,t.length))}return!1},window.bizpanda.bp_ut_set_cookie=function(e,n,i){var o=new Date;o.setTime(o.getTime()+24*i*60*60*1e3);var t="expires="+o.toUTCString();document.cookie=e+"="+encodeURIComponent(n)+"; "+t+"; path=/"},window.bizpanda.bp_ut_get_obj=function(e){var n=null;if(!(n=window.bizpanda.bp_can_store_localy()?window.localStorage.getItem("bp_ut_session"):window.bizpanda.bp_ut_get_cookie("bp_ut_session")))return!1;n=(n=n.replace(/\-c\-/g,",")).replace(/\-q\-/g,'"');try{n=JSON.parse(n)}catch(e){return!1}return n.started+1e3*e<(new Date).getTime()&&(n=null),n},window.bizpanda.bp_ut_set_obj=function(e,n){e.started&&window.__bp_session_freezing||(e.started=(new Date).getTime()),(e=JSON.stringify(e))&&(e=(e=e.replace(/\"/g,"-q-")).replace(/\,/g,"-c-")),window.bizpanda.bp_can_store_localy()?window.localStorage.setItem("bp_ut_session",e):window.bizpanda.bp_ut_set_cookie("bp_ut_session",e,5e3)},window.bizpanda.bp_ut_count_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_session_timeout);e||(e={}),e.pageviews||(e.pageviews=0),0===e.pageviews&&(e.referrer=document.referrer,e.landingPage=window.location.href,e.pageviews=0),e.pageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_locker_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_timeout);e||(e={}),e.lockerPageviews||(e.lockerPageviews=0),e.lockerPageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_pageview();
+        </script>
+        <!-- / -->
+            <script type="text/javascript" async src="//l.getsitecontrol.com/lw1m5jyw.js"></script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	    <!-- HelpScout Beacon -->
+    <script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+    <script type="text/javascript">
+        window.Beacon('init', '32eee36c-cc83-4dcb-a109-b310705807d5');
+        window.BeaconDefaultCustomFields = [];
+
+                    window.BeaconDefaultCustomFields.push(
+                        {
+                            id: 34147,
+                            value: 176572                        }
+                );
+
+                BeaconPrefill();
+            
+        function BeaconPrefill(formObject) {
+            var formObject = formObject || {};
+
+            if (window.BeaconDefaultCustomFields) {
+                formObject.fields = window.BeaconDefaultCustomFields;
+            }
+
+            window.Beacon('prefill', formObject);
+        }
+
+        document.onreadystatechange = function () {
+            if (document.readyState == "complete") {
+                var logout_link = document.querySelectorAll('a[href*="/my-account/customer-logout/"]');
+                if (logout_link) {
+                    for (var i = 0; i < logout_link.length; i++) {
+                        logout_link[i].addEventListener("click", function () {
+                            window.Beacon('logout');
+                        });
+                    }
+                }
+            }
+        };
+    </script>
+    <!-- End HelpScout Beacon -->
+    <script type='text/javascript' id='metorik-js-js-extra'>
+/* <![CDATA[ */
+var metorik_params = {"lifetime":"6","session":"30","ajaxurl":"https:\/\/designmodo.com\/wp-admin\/admin-ajax.php","cart_tracking":"1","cart_items":"0","cart_checkout_button":"1","add_cart_popup_placement":"bottom","send_cart_events":"added_to_cart removed_from_cart updated_cart_totals updated_shipping_method applied_coupon removed_coupon updated_checkout","sbjs_domain":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://designmodo.com/wp-content/plugins/metorik-helper/assets/js/metorik.min.js?ver=1.6.2' id='metorik-js-js'></script>
+<script type='text/javascript' src='https://designmodo.com/wp-content/themes/designmodo/assets/js/jquery.ui.min.js?ver=1.12.1' id='dm-jquery-ui-js'></script>
+<script type='text/javascript' src='https://designmodo.com/wp-content/themes/designmodo/custom-pages/slides/presentation/js/all.min.js?ver=6.0' id='dm_shop_slides_scripts-js'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+		( function() {
+
+			function trackEvents() {
+				
+				ga( 'send', 'pageview' );
+			}
+
+			if ( 'undefined' !== typeof ga ) {
+				trackEvents();
+			} else {
+				// avoid using jQuery in case it's not available when this script is loaded
+				document.addEventListener( 'wc_google_analytics_pro_loaded', trackEvents );
+			}
+
+		} ) ();
+		
+ });
+</script>
+
+
+</body>
+</html>
