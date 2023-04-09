@@ -198,29 +198,28 @@ if (isset($_COOKIE['language']) && in_array($_COOKIE['language'], $accepted_lang
     var link = document.getElementById("privacyPolicyLink");
     var closeBtn = document.getElementsByClassName("close")[0];
 
-    // Zmienna przechowująca wartość scrollTop
-    var scrollTopPosition = 0;
-
     // Otwórz modal, gdy użytkownik kliknie link
     link.onclick = function () {
-        scrollTopPosition = document.documentElement.scrollTop || document.body.scrollTop; // zapisz wartość scrollTop
         modal.style.display = "block";
     };
 
     // Zamknij modal, gdy użytkownik kliknie przycisk (X)
     closeBtn.onclick = function () {
         modal.style.display = "none";
-        document.documentElement.scrollTop = scrollTopPosition; // ustaw scrollTop na wartość przechowywaną w zmiennej
+        window.location.href = "#rejestracja"; // przewiń stronę do sekcji "rejestracja"
     };
 
     // Zamknij modal, gdy użytkownik kliknie poza nim
     window.onclick = function (event) {
         if (event.target == modal) {
             modal.style.display = "none";
-            document.documentElement.scrollTop = scrollTopPosition; // ustaw scrollTop na wartość przechowywaną w zmiennej
+            window.location.href = "#rejestracja"; // przewiń stronę do sekcji "rejestracja"
         }
     };
 </script>
+
+
+
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
